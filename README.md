@@ -1,4 +1,4 @@
 # 2025-02-13-practice
 
--"git push": 6
--"git pull": 7
+-"git add":4
+-"git commit":5
